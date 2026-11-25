@@ -1,8 +1,8 @@
 {
-  "versionCode": 86,
-  "versionName": "4.0.1",
-  "apk": "CarUp-4.0.1.apk",
-  "sha256": "7eb4de820d8fdf14bb50588a6bb9b09c5371d55eb4450cae9f7a5a60bcb08fe5",
+  "versionCode": 87,
+  "versionName": "4.0.2-test",
+  "apk": "CarUp-4.0.2-test.apk",
+  "sha256": "6a76c366acc9d2a1058e379c5e4d8109f3217d80ea2ecd0fdcefb6ea414370cf",
   "size": 6048236,
-  "notes": "4.0.1：预置 GitHub 更新源（Qingfengxl/carup-update）"
+  "notes": "4.0.2 测试包：验证检测→下载→安装链路"
 }
